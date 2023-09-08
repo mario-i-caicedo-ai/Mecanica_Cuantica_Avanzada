@@ -1,7 +1,71 @@
 # Mecánica Cuántica Avanzada
 
 
+## Descripción
 
+Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
+
+### Algunos temas del Curso
+
+* Oscilaciones Lineales
+* Osciladores acoplados
+ * Límite del contínuo y ecuación de ondas
+* La ecuación de ondas
+  * Línea de Transmisión, ecuaciones telegráficas y aproximación de cero pérdida
+  * Cuerda Vibrante
+  * Ondas en Tres dimensiones
+   * Ondas electromagnéticas
+* Energía y su propagación. Vector de Poynting
+* Interferencia y Difracción
+* Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat    
+
+## Bibliografía para el curso
+
+1. Alberto Galindo, Pedro Pascual. Quantum Mechanics I.
+Publisher	Springer Science & Business Media, 2012
+ISBN	3642838545, 9783642838545
+2. Alberto Galindo, Pedro Pascual. Quantum Mechanics II.
+Publisher	Springer Science & Business Media, 2012. 9783642841293, 3642841295
+3. J. J. Sakurai, Jim Napolitano. Modern Quantum Mechanics.
+Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
+
+## Bibliografía Avanzada
+
+1. Paul Roman, Advanced Quantum Theory
+An Outline of the Fundamental Ideas. Addison-Wesley Publishing Company, 1965
+2. Alexander L. Fetter, John Dirk Walecka. Quantum Theory of Many-Particle Systems. Dover Publications, 2012. ISBN 9780486134758, 048613475X
+
+
+## Material de Estudio (Apuntes, clases y videos)
+
+[Bienvenida](notas/CLASE_0_Ondas_y__ptica.pdf)
+
+[Semana 1.]. Repaso de mecánica del punto y ecuaciones diferenciales
+
+[Semana 2. Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta, que trata el tema de dos osciladores acoplados,  complementa el material de estudio de la tarea #1
+
+[Semanas 2, 3 y 4. Modos Normales de N Osciladores](notas/Modos_Normales_de_N_Osciladores.pdf) Estudio de un método general para  sistemas oscilantes lineales acoplados 
+
+[Semanas 3 y 4. Experimente con Osciladores acoplados](https://www.compadre.org/osp/EJSS/4137/164.htm). Este enlace le permitirá reforzar algunos conceptos relacionados con los modos normales.
+
+[Semanas 4 y 5. Modos Normales de N Osciladores, el limite del contínuo](notas/SEMANA_4_5__Modos_Normales_Paso_AL_Cont_nuo.pdf) En el límite en que el número de osciladores crece al infinito, el sistema pasa a un contínuo. En el caso de estas notas, el límite corresponde a las oscilaciones transversales de una cuerda tensa.
+
+[Semana 5. Presentación](notas/SEMANA_5_Ondas_y_Optica_Parte_II.pdf). Comienza la segunda etapa del curso. **Fenómenos de propagación de ondas**. En esta parte nos concentraremos en las [Notas del curso Física 5](notas/fisica5book.pdf), documento que contiene 
+temas del curso de física 5 de la Universidad Simón Bolívar que se solapan con temas del curso de Ondas y Óptica
+
+[Semanas 6 y 7]. Continuación de la segunda etapa del curso. Continúan las lecturas basadas en las [Notas del curso Física 5](notas/fisica5book.pdf), esta parte del curso concluye con algunos aspectos de las [ondas electromagnéticas](notas/Ondas_Electromagn_ticas.pdf).
+
+[Semana 8]. [Interferencia](notas/Interferencia.pdf).
+
+## Tareas
+
+[Semana 1. Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf).  Repaso de oscilaciones armónicas.
+
+[Semana 2. Tarea 1](tareas/Ondas_y_Optica_Tarea_1.pdf).  Oscilaciones amortiguadas.
+
+[Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf). Introducción a las oscilaciones acopladas y modos normales
+
+[Semana 4. Tarea 3](tareas/S
 
 
 Escribir y desarrollar código son habilidades vitales para cualquier científico. Hoy en día, la mayor parte de la codificación se realiza a través de bibliotecas y funciones preprogramadas. Mi primera y más fuerte sugerencia es codificar en [Python 3.6](https://www.python.org/). Si tiene muy poca experienvia, puede que este [Minicurso de Python](https://github.com/mario-i-caicedo-ai/Python_Minicurso) te resulte útil.
