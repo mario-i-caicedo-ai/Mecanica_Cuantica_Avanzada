@@ -25,7 +25,7 @@ Representación de número de ocupación. Segunda cuantización del campo de Sch
 
 4. **Cuantización del Campo Electromagnético**
 
-El campo electromagnético. Invariancia de calibre y grados de libertad físicos. Cuantización Canónica del Campo Electromagnético en calibre Coulomb. Influencia de las Condiciones deBorde. El vacío de Campo Electromagnético. Interacción de materia con el Campo Electromagnético Cuantizado. Emisión espontánea. Fotones con Paridad y Helicidad definida.
+El campo electromagnético. Invariancia de calibre y grados de libertad físicos. Cuantización Canónica del Campo Electromagnético en calibre Coulomb. Influencia de las Condiciones de Borde. El vacío de Campo Electromagnético. Interacción de materia con el Campo Electromagnético Cuantizado. Emisión espontánea. Fotones con Paridad y Helicidad definida. Reglas de selección. (3 semanas)
 
 
 ## Bibliografía para el curso
