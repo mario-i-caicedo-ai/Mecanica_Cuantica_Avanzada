@@ -1,27 +1,30 @@
 # Mecánica Cuántica Avanzada
 
-## Descripción
+## Requisitos
 
-Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
+Para aprovechar este curso usted debe tener un manejo conceptual y operacional de los elementos básicos de la mecánica cuántica, incluyendo, obviamente, el formalismo de Dirac.
+Usted debería manejar, como contenido mínimo la cuantización del oscilador armónico, el átomo de hidrógeno, la teoría general del momentum angular incluyendo la suma de momenta angulares, sistemas de dos niveles, spin 1/2 y la ecuación de Pauli.
+Estos prerequisitos corresponden al contenido de un curso de mecánica cuántica al nivel de los muy conocidos textos de **Claude Cohen-Tannoudji, ‎Bernard Diu y ‎Franck Laloë** 
 
-## CONTENIDOS:
 
-1. **INTERACCION DE RADIACION Y MATERIA**
+## PROGRAMA:
+
+1. **Interacción de Radiación y Materia**
 
 Probabilidades de transición cuántica bajo la influencia de una perturbación. Probabilidad de transición por unidad de tiempo. Regla de Fermi. Interacción de la materia con una onda electromagnética. Absorción y emisión de fotones. Teorema de Wigner Eckart y Reglas de selección. Radiación dipolar. Radiación multipolar. Vida media de estados exitados. Coeficientes de Einstein. Ionización de un átomo por una onda electromagnética y efecto fotoeléctrico. Dispersión de la luz por un sistema atómico. (3 ½ semanas)
 
 
-2. **SISTEMAS DE MUCHAS PARTICULAS**
+2. **Sistemas de Muchas Partículas**
    
 Sistemas de muchos cuerpos. Partículas idénticas, bosones y fermiones. Aproximaciones de Hartree y de Hartree-Fock. Teorema de Koopman. Estados electrónicos en átomos. Métodos de Thomas-Fermi. Aproximación de Campo Central. Metales alcalinos. Operadores densidad parasistemas de muchas partículas (2 semanas)
 
  
-3.- **SEGUNDA CUANTIZACIÓN**
+3. **Segunda Cuantización**
 
-Representación de número de ocupación. Segunda cuantización del campo de Schröedinger. Operadores de campo. El vacío. Relación con el método de Cuantización Canónica. Correlaciones. Gas de Electrones y Gas de Bosones. Partículas con interacción. Transformaciones deBogoliubvov y Cuasipartículas. Superfluidez. Funciones de Green. Representación de Lehman.
-Teoría de Perturbaciones. Gráficos de Feynman. Vida media de las cuasipartículas. (3 ½ semanas)
+Representación de número de ocupación. Segunda cuantización del campo de Schröedinger. Operadores de campo. El vacío. Relación con el método de Cuantización Canónica. Correlaciones. Gas de Electrones y Gas de Bosones. Partículas con interacción. Transformaciones de Bogoliubvov y Cuasipartículas. Superfluidez. Funciones de Green. Representación de Lehman. Teoría de Perturbaciones. Gráficos de Feynman. Vida media de las cuasipartículas. (3 ½ semanas)
 
-4. CUANTIZACION DEL CAMPO ELECTROMAGNETICO
+4. **Cuantización del Campo Electromagnético**
+
 El campo electromagnético. Invariancia de calibre y grados de libertad físicos. Cuantización Canónica del Campo Electromagnético en calibre Coulomb. Influencia de las Condiciones deBorde. El vacío de Campo Electromagnético. Interacción de materia con el Campo Electromagnético Cuantizado. Emisión espontánea. Fotones con Paridad y Helicidad definida.
 
 
