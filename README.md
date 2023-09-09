@@ -50,7 +50,6 @@ Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
 4. G.Mahan, Many Particle Physics, Plenum Press 1990
 5. Eberhard K. U. Gross, E. Runge, O. Heinonen, Many Particle Theory, A. Hilger, 1991. 9780750301558, 0750301554
 
-Reglas de selección (3 semanas).
 
 ## Material de Estudio (Apuntes, clases y videos)
 
