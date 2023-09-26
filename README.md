@@ -58,7 +58,7 @@ Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
 
 1. Tarea 0: Repase el capítulo 3 del texto de Cohen Tannoudji.
 
-2. Tarea 1: [Teoría de Perturbaciones](/tareas/QUANTUM_MECHANICS_IIIB.pdf) Estudie las secciones 1.1 a 1.2
+2. Tarea 1: [Teoría de Perturbaciones](/tareas/QUANTUM_MECHANICS_IIIB.pdf) Estudie las secciones 1.1 a 2.2
 
 ## Herramientas de Cómputo
 
