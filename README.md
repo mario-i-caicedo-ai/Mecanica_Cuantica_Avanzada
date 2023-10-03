@@ -60,7 +60,7 @@ Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
 
 2. Tarea 1: [Teoría de Perturbaciones](/tareas/QUANTUM_MECHANICS_IIIB.pdf) Estudie las secciones 1.1 a 2.2
 
-3. Tarea 2: Continuamos con teoría de perturbaciones dependientes del triempo. Regla de Oro de Fermi y aplicaciones. Lea cuidadosamente el capítulo 12 del libro de Gordon Baym y las secciones 5.6 en adelante del texto de Sakurai. Estudie los ejemplos y reportelos **en detalle** a través de un archivo en overleaf que deberá compartir con el profesor del curso. El siguiente [enlace](https://math.stackexchange.com/questions/1087770/dirac-delta-function-as-a-limit-of-sinc-function) puede serle de gran utilidad
+3. Tarea 2: Continuamos con teoría de perturbaciones dependientes del tiempo. Regla de Oro de Fermi y aplicaciones. Lea cuidadosamente el capítulo 12 del libro de Gordon Baym y las secciones 5.6 en adelante del texto de Sakurai. Estudie los ejemplos y reportelos **en detalle** a través de un archivo en overleaf que deberá compartir con el profesor del curso. El siguiente [enlace](https://math.stackexchange.com/questions/1087770/dirac-delta-function-as-a-limit-of-sinc-function) puede serle de gran utilidad
 
 ## Herramientas de Cómputo
 
