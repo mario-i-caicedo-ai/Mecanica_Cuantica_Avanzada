@@ -34,10 +34,10 @@ El campo electromagnético. Invariancia de calibre y grados de libertad físicos
 3. G.Baym, Lectures in Quantum Mechanics, Avalon Publishing, 1990, digitized 2010.
 ISBN 9780805306675, 0805306676
 5. A.S. Davidov, Quantum Mechanics, Neo Press 1966
-4A. Alberto Galindo, Pedro Pascual. Quantum Mechanics I.
+6. Alberto Galindo, Pedro Pascual. Quantum Mechanics I.
 Publisher	Springer Science & Business Media, 2012
 ISBN	3642838545, 9783642838545
-4B. Alberto Galindo, Pedro Pascual. Quantum Mechanics II.
+7. Alberto Galindo, Pedro Pascual. Quantum Mechanics II.
 Publisher	Springer Science & Business Media, 2012. 9783642841293, 3642841295
 6. J. J. Sakurai, Jim Napolitano. Modern Quantum Mechanics.
 Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
