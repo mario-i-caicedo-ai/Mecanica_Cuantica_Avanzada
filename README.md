@@ -53,6 +53,7 @@ Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
 
 ## Material de Estudio (Apuntes, clases y videos)
 
+1. [Postulados de la Mecanica Cuantica](/tareas/QUANTUM_MECHANICS_IIIB.pdf)
 
 ## Tareas
 
