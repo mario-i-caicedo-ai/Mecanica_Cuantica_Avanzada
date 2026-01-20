@@ -59,10 +59,11 @@ Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
 
 1. Tarea 0: Repase el capítulo 3 del texto de Cohen Tannoudji.
 
-% 2. Tarea 1: [Teoría de Perturbaciones](/tareas/QUANTUM_MECHANICS_IIIB.pdf) Estudie las secciones 1.1 a 2.2
+\begin{verbatim}
+2. Tarea 1: [Teoría de Perturbaciones](/tareas/QUANTUM_MECHANICS_IIIB.pdf) Estudie las secciones 1.1 a 2.2
 
-% 3. Tarea 2: Continuamos con teoría de perturbaciones dependientes del tiempo. Regla de Oro de Fermi y aplicaciones. Lea cuidadosamente el capítulo 12 del libro de Gordon Baym y las secciones 5.6 en adelante del texto de Sakurai. Estudie los ejemplos y reportelos **en detalle** a través de un archivo en overleaf que deberá compartir con el profesor del curso. El siguiente [enlace](https://math.stackexchange.com/questions/1087770/dirac-delta-function-as-a-limit-of-sinc-function) puede serle de gran utilidad
-
+3. Tarea 2: Continuamos con teoría de perturbaciones dependientes del tiempo. Regla de Oro de Fermi y aplicaciones. Lea cuidadosamente el capítulo 12 del libro de Gordon Baym y las secciones 5.6 en adelante del texto de Sakurai. Estudie los ejemplos y reportelos **en detalle** a través de un archivo en overleaf que deberá compartir con el profesor del curso. El siguiente [enlace](https://math.stackexchange.com/questions/1087770/dirac-delta-function-as-a-limit-of-sinc-function) puede serle de gran utilidad
+\end{verbatim}
 ## Herramientas de Cómputo
 
 Escribir y desarrollar código son habilidades vitales para cualquier científico. Hoy en día, la mayor parte de la codificación se realiza a través de bibliotecas y funciones preprogramadas. Mi primera y más fuerte sugerencia es codificar en [Python 3.6](https://www.python.org/). Si tiene muy poca experienvia, puede que este [Minicurso de Python](https://github.com/mario-i-caicedo-ai/Python_Minicurso) le resulte útil.
