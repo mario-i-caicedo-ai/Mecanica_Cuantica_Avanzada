@@ -41,6 +41,8 @@ ISBN	3642838545, 9783642838545
 Publisher	Springer Science & Business Media, 2012. 9783642841293, 3642841295
 6. J. J. Sakurai, Jim Napolitano. Modern Quantum Mechanics.
 Cambridge University Press, 2020. ISBN 9781108473224, 1108473229
+7. Edward G. Harris. A Pedestrian Approach to Quantum Field Theory
+.Wiley-Interscience, 1972. ISBN	0471353205, 9780471353201
 
 ## Bibliografía Avanzada
 
